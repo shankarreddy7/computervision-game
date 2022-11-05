@@ -15,6 +15,10 @@ Utilizing the [Teachable Machine's](https://teachablemachine.withgoogle.com/)  f
 ## Milestone 2:
 
 To avoid dependency conflicts with different versions of the libraries. the project is done under conda environment. As I am using Ubuntu flavoured linux, current version of tensorflow is not supported. so, we've installed python version 3.8 . we have installed, tensorflow: a package for Machine learning and CV2: a package for computer vision is installed.
+'''
+conda install -n myenv pip
+conda activate myenv
+'''
 
 
 ## Milestone 3: Manual Game
