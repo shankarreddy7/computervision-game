@@ -10,7 +10,7 @@ Google's Teachable Machine is a web-based tool that makes creating machine learn
 Utilizing the [Teachable Machine's](https://teachablemachine.withgoogle.com/)  functionality we've created four categories namely Rocks,papers,scissors and nothing was trained. which classifies the images shown to it during the operation. this trained model is downloaded by tensorflow header files and loaded to the directory.
 
 
-
+![teachable machine](https://user-images.githubusercontent.com/101912572/200111750-ec3baabe-1455-491f-b947-853ca9f8f26d.png)
 
 ## Milestone 2:
 
